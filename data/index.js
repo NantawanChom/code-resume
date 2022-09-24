@@ -1,38 +1,28 @@
 export const defaultTheme = 'dark'; // light
 
-export const Title = 'Amit Mishra ~ Senior Web Developer';
+export const Title = 'Nantawan Chomboonmee ~ Software Developer';
 
 export const Resume = {
     introduction: `{ 
         Introduction = () => { 
             Namaste: { 
-                Name: 'Amit Mishra', 
-                Designation: 'Senior Web Developer' 
+                Name: 'Nantawan Chomboonmee', 
+                Designation: 'Software Developer' 
             } 
         } 
 }`,
 
     experience: `{
         Experience = () => {
-            Media.net: {
-                company: 'Directi(Media.net)',
-                designation: 'Senior Web Developer',
-                period: 'Feb 2017 to Present'
+            Trinity roots: {
+                company: 'Trinity roots',
+                designation: 'Python developer',
+                period: 'May 2020 to August 2020'
             },
-            Onlinemocks: {
-                company: 'Onlinemocks Pvt. Ltd.',
-                designation: 'UI Developer',
-                period: 'May 2016 to January 2017'
-            },
-            Collegedunia: {
-                company: 'Collegedunia Web Pvt. Ltd.',
-                designation: 'UI Developer',
-                period: 'October 2015 to April 2016'
-            },
-            Rising Hues: {
-                company: 'Rising Hues Technology LLP.',
-                designation: 'Web Developer',
-                period: 'July 2014 to September 2015'
+            Looloo technology: {
+                company: 'Looloo technology',
+                designation: 'Software Developer',
+                period: 'September 2020 to Present'
             }
         }
 }`,
@@ -45,33 +35,25 @@ export const Resume = {
             },
             Styling: {
                 css: 'Cascading Style Sheets',
-                sass: 'Syntactically Awesome Style Sheets',
-                postCss: 'PostCSS',
                 bootStrap: 'Bootstrap'
             },
             JavaScript: {
                 js: 'JavaScript',
-                react: 'React JS',
-                redux: 'Redux',
-                saga: 'Redux-Saga',
-                pwa: 'Progressive Web App',
-                node: 'Node JS'
+                vue: 'Vue JS',
             },
-            BuildTools: {
-                webpack: 'Webpack',
-                gulp: 'Gulp'
-            },
+            Python: {
+                python: 'Django'
+            }
             Others: {
                 $: 'Jquery',
+                Go: 'Go language'
                 performance: 'Performance Optimization',
                 wd: 'Web Development',
-                rwd: 'Responsive Web Design',
-                validation: 'W3C Validation',
-                cbc: 'Cross-browser Compatibility',
-                vc: 'Version Control'
+                bd: 'Backend Developer',
+                mySQL: 'mySQL',
+                debug: 'Code structure and Debug'
             },
             Tools: {
-                sketch: 'Sketch',
                 github: 'Github',
                 gitlab: 'Gitlab',
                 code: 'VS Code'
@@ -124,8 +106,8 @@ export const Resume = {
     contact: `{
         Contact = () => {       
             {
-                email: 'amitmishra009v@gmail.com',
-                mobile: '8802100560'
+                email: 'nantawan.cbm08@gmail.com',
+                mobile: '-'
             }
         }
 }`
